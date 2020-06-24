@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, you'll generate your own Seinfeld TV scripts using RNNs. The dataset consists Seinfeld scripts from 9 seasons. The Neural Network you'll build will generate a new, "fake" TV script.
+In this project, you'll generate your own Seinfeld TV scripts using RNNs. You'll be using Seinfeld scripts from 9 seasons as your dataset. The Neural Network you'll build will generate a new, "fake" TV script.
 
 ## Getting the Project file
 
